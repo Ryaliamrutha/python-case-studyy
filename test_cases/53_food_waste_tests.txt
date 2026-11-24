@@ -1,0 +1,14 @@
+TEST CASES: Food Waste Monitoring System
+
+Test 1
+Input: Prepared=100, served=80, limit=15
+Expected result: 20 leftovers; 20%; alert
+
+Test 2
+Input: Prepared=50, served=45, limit=15
+Expected result: 5 leftovers; 10%; within limit
+
+Test 3
+Input: Prepared=20, served=25
+Expected result: Invalid meal details
+

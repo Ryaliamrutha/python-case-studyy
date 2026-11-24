@@ -1,0 +1,13 @@
+FLOWCHART: Student Marks Matrix Analysis
+
+START
+  |
+INPUT AND VALIDATE DATA
+  |
+PROCESS USING LOOPS / CONDITIONS
+  |
+DISPLAY RESULTS
+  |
+STOP
+
+Note: This text flowchart shows the main sequence. Decision branches are described in the algorithm and pseudocode.

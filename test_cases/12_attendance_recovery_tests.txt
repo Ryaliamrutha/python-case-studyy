@@ -1,0 +1,14 @@
+TEST CASES: Attendance Recovery Computation
+
+Test 1
+Input: Attended=60, Conducted=75, Required=75
+Expected result: 80.0%; 0 classes needed
+
+Test 2
+Input: Attended=50, Conducted=80, Required=75
+Expected result: 62.5%; 40 classes needed
+
+Test 3
+Input: Attended=0, Conducted=0, Required=75
+Expected result: Invalid input
+

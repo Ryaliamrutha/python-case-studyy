@@ -1,0 +1,14 @@
+TEST CASES: String-Based Examination Answer Evaluation
+
+Test 1
+Input: Key=ABCD; Response=AB-D
+Expected result: 2 correct, 1 incorrect, 1 unanswered; score 1.75
+
+Test 2
+Input: Key=ABC; Response=ABC
+Expected result: 3 correct; score 3
+
+Test 3
+Input: Key=AB; Response=A
+Expected result: Invalid input
+

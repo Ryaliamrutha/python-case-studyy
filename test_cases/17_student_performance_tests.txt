@@ -1,0 +1,14 @@
+TEST CASES: Student Performance Trend Analysis
+
+Test 1
+Input: Maths: 60,80; Science: 70,65
+Expected result: Maths improved; Science declined; lowest average Science
+
+Test 2
+Input: Maths: 75,75
+Expected result: No change
+
+Test 3
+Input: Number of subjects=0
+Expected result: Invalid number of subjects
+

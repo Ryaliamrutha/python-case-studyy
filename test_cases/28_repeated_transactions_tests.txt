@@ -1,0 +1,14 @@
+TEST CASES: Repeated Transaction Detection
+
+Test 1
+Input: A1=100, A2=600, A1=200; threshold=500
+Expected result: A1 duplicate; A2 amount above threshold
+
+Test 2
+Input: B1=50; threshold=100
+Expected result: No duplicates; no high amount
+
+Test 3
+Input: No transactions
+Expected result: No duplicates; no high amount
+

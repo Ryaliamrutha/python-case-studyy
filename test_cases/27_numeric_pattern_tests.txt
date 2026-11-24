@@ -1,0 +1,14 @@
+TEST CASES: Advanced Numeric Pattern Generator
+
+Test 1
+Input: Size=3
+Expected result:   1 / 121 / 12321 / 121 / 1
+
+Test 2
+Input: Size=1
+Expected result: 1
+
+Test 3
+Input: Size=0
+Expected result: Invalid size
+

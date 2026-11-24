@@ -1,0 +1,14 @@
+TEST CASES: Text Compression Using Character Runs
+
+Test 1
+Input: aaabbc
+Expected result: a3b2c1; encoded length 6
+
+Test 2
+Input: abcd
+Expected result: a1b1c1d1; encoding does not reduce length
+
+Test 3
+Input: aaaa
+Expected result: a4
+

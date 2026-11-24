@@ -1,0 +1,14 @@
+TEST CASES: Tuple-Based Product Catalogue Audit
+
+Test 1
+Input: P1: price 10, qty 3; P2: price 5, qty 10
+Expected result: P1 replenishment; total value 80
+
+Test 2
+Input: P1 repeated twice
+Expected result: Duplicate product ID reported
+
+Test 3
+Input: P1 price=-2
+Expected result: Invalid product record
+
